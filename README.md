@@ -13,11 +13,20 @@
 
 ### PROJECTS
 **[Air Quality Forecasting using Time-series Analysis](https://github.com/Exper626/Air-Quality-DE)** <br>
-ARIMA <br>
+- ARIMA <br>
+
 **[Multiclass Brain-related Disease Detection and Identification System](https://github.com/Uziii-man/Cranium-Cryptics)** <br>
+- EfficientNet <br>
+
 **[Adult Census Income Prediction](https://github.com/Exper626/Census-Income-ML)** <br>
+- Naive Bayes, Random Forest
+
 **[Parliamentary Seat Prediction System(Ongoing)](https://github.com/Exper626/CyberMace)** <br>
+- Data Mining
+
 **[Society/Club maintenance system](https://github.com/Exper626/Societas_Futuis)** <br>
+- Java, MySQL, OOD
+
 
 ### EXTRA-CURRICULAR ACTIVITIES
 - Established the eSports Society of IIT - 2023
