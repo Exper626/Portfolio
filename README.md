@@ -1,7 +1,15 @@
 # AI & Data Science Major
 
 ### EDUCATION 
- Bsc. Artificial Intelligence & Data Science (reading)
+ **Bsc. Artificial Intelligence & Data Science (reading)**
+ - Informatics Institue of Technology affiliated with Robert Gordon University, Scotland
+
+ **GCE Advanced Level Examination - 2020**
+ *Biological Science*
+ - Muslim Ladies' College, Colombo - 04
+
+**GCE Ordinary Level Examination - 2016**
+- Muslim Ladies' College, Colombo - 04
 
 ### PROJECTS
 - [Air Quality Forecasting using Time-series Analysis](https://github.com/Exper626/Air-Quality-DE)
@@ -18,3 +26,5 @@
 - Member and Content Creator of Entrepreneurship Society of IIT (2022 - 2023)
 - Member of Leo Club of IIT (2022 - present)
 - Member of IIT Toastmasters Club (2022)
+
+[View my CV](assets/Hanaa_Azhar_resume.pdf)
