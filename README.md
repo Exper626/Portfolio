@@ -1,22 +1,23 @@
-# AI & Data Science Major
+# Hanaa Azhar Portfolio
 
 ### EDUCATION 
  **Bsc. Artificial Intelligence & Data Science (reading)**
  - Informatics Institue of Technology affiliated with Robert Gordon University, Scotland
 
  **GCE Advanced Level Examination - 2020**
- *Biological Science*
+ <br> *Biological Science*
  - Muslim Ladies' College, Colombo - 04
 
 **GCE Ordinary Level Examination - 2016**
 - Muslim Ladies' College, Colombo - 04
 
 ### PROJECTS
-- [Air Quality Forecasting using Time-series Analysis](https://github.com/Exper626/Air-Quality-DE)
-- [Multiclass Brain-related Disease Detection and Identification System](https://github.com/Uziii-man/Cranium-Cryptics)
-- [Adult Census Income Prediction](https://github.com/Exper626/Census-Income-ML)
-- [Parliamentary Seat Prediction System(Ongoing)]
-- [Society/Club maintenance system](https://github.com/Exper626/Societas_Futuis)
+**[Air Quality Forecasting using Time-series Analysis](https://github.com/Exper626/Air-Quality-DE)** <br>
+- ARIMA, PowerBI, Python Libraries
+**[Multiclass Brain-related Disease Detection and Identification System](https://github.com/Uziii-man/Cranium-Cryptics)**
+**[Adult Census Income Prediction](https://github.com/Exper626/Census-Income-ML)**
+**[Parliamentary Seat Prediction System(Ongoing)](https://github.com/Exper626/CyberMace)**
+**[Society/Club maintenance system](https://github.com/Exper626/Societas_Futuis)**
 
 ### EXTRA-CURRICULAR ACTIVITIES
 - Established the eSports Society of IIT - 2023
