@@ -30,6 +30,9 @@ Contact number: +94 75 571 7800
 **[Parliamentary Seat Prediction System(Ongoing)](https://github.com/Exper626/CyberMace)** <br>
 - Data Mining
 
+**[Pixel Perfect - Computer Vision](https://github.com/Exper626/PixelPerfect)** <br>
+- OpenCV, MediaPipe
+
 **[Society/Club maintenance system](https://github.com/Exper626/Societas_Futuis)** <br>
 - Java, MySQL, OOD
 
