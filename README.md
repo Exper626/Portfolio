@@ -1,5 +1,5 @@
 # Hanaa Azhar
-I am an AI & Data Science major and enthusiast driven by a passion for uncovering insights and building innovative solutions. I bring a unique blend of curiosity and technical expertise to every project, constantly seeking unconventional angles to tackle complex problems.
+I am an AI & Data Science major and enthusiast with a passion for uncovering insights and building innovative solutions. I bring a unique blend of curiosity and technical expertise to every project, constantly seeking unconventional angles to tackle complex problems.
 
 #### CONTACT
 Email: azharhanaa2@gmail.com <br>
@@ -12,10 +12,10 @@ Contact number: +94 75 571 7800
 
  **GCE Advanced Level Examination - 2020**
  <br> *Biological Science*
- - Muslim Ladies' College, Colombo - 04
+ - Muslim Ladies College, Colombo - 04
 
 **GCE Ordinary Level Examination - 2016**
-- Muslim Ladies' College, Colombo - 04
+- Muslim Ladies College, Colombo - 04
 
 ### PROJECTS
 **[Air Quality Forecasting using Time-series Analysis](https://github.com/Exper626/Air-Quality-DE)** <br>
@@ -26,9 +26,6 @@ Contact number: +94 75 571 7800
 
 **[Adult Census Income Prediction](https://github.com/Exper626/Census-Income-ML)** <br>
 - Naive Bayes, Random Forest
-
-**[Parliamentary Seat Prediction System(Ongoing)](https://github.com/Exper626/CyberMace)** <br>
-- Data Mining
 
 **[Pixel Perfect - Computer Vision](https://github.com/Exper626/PixelPerfect)** <br>
 - OpenCV, MediaPipe
@@ -57,12 +54,12 @@ Contact number: +94 75 571 7800
 - Analytical Thinking skills
 - Creativity & Innovation
 - Communication skills
-- Leadership skills & Risk taking
+- Leadership skills & Risk-taking
 - Networking & Team building
 - Flexibility & Quick learning
 - Trilingual (**English, Sinhala, Tamil**) + learning
 
-### EXTRA-CURRICULAR ACTIVITIES
+### CLUBS AND SOCIETIES
 - Established the eSports Society of IIT - 2023
 - Secretary of the eSports Society of IIT, Executive Board member (2023 - present)
 - IGVP PM for the term 24/25, oGT Member of AIESEC (2022 - present)
